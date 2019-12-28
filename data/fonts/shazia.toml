@@ -1,0 +1,15 @@
+# Font style metadata
+name = "shazia"
+
+# Optional Google font URL
+google_fonts = "Darker+Grotesque|News+Cycle|Dosis:300" 
+
+# Font families
+heading_font = "Dosis"
+body_font = "Dosis"
+nav_font = "Dosis"
+mono_font = "Dosis"
+
+# Font size
+font_size = "16"
+font_size_small = "16"
