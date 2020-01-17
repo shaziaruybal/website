@@ -11,6 +11,15 @@ subtitle = ""
 date_format = "Jan 2006"
 
 [[experience]]
+  title = "Guest Lecturer"
+  company = "Nossal Institute for Global Health"
+  company_url = "https://mspgh.unimelb.edu.au/centres-institutes/nossal-institute-for-global-health"
+  location = "Melbourne, Australia"
+  date_start = "2019-10-28"
+  date_end = ""
+  description = """Guest lecturer for the Nossal Institute for Global Health, Unviversity of Melbourne Masters of Public Health on Malaria and Child Health (POPH90086: Global Child Health)"""
+
+[[experience]]
   title = "PhD Student Co-Supervisor"
   company = "Walter and Eliza Hall Institute of Medical Research"
   company_url = "https://www.wehi.edu.au"
